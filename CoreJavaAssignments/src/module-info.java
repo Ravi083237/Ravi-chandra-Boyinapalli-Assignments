@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author boravich
+ *
+ */
+module CoreJavaAssignments {
+}
